@@ -4,6 +4,8 @@ import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.concurrent.ThreadLocalRandom;
 
+package de.ksp.praktikum.max;
+
 public class noeq {
     public static void main(String[] args) {
         final int arrayLength = 30;
